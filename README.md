@@ -4,7 +4,7 @@ It helps you to track down the current statistics of the pandemic of corona viru
 
 ### [Live Site](https://roronoa2112zoro.github.io/covid19-tracker/)
 
-## Introduction
-Setup:
+
+## Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
  
